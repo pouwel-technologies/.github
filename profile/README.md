@@ -19,8 +19,6 @@ Everything published here is:
 Open source is how you check the other four. Anyone can read the code and
 confirm that nothing is leaving the machine.
 
-If a feature needs a cloud service, an account or a paid API to work, it's the
-wrong feature. There's a local way, or it doesn't ship.
 
 ## Apps
 
